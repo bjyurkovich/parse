@@ -1,0 +1,23 @@
+{
+  "name": "parse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjyurkovich/parse.git"
+  },
+  "author": "BJ Yurkovich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bjyurkovich/parse/issues"
+  },
+  "homepage": "https://github.com/bjyurkovich/parse#readme",
+  "dependencies": {
+    "mongodb-runner": "^3.3.2",
+    "parse-server": "^2.2.10"
+  }
+}
